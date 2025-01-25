@@ -1,5 +1,6 @@
 # ECG-lead-importance
 Lead importance in 12-lead ECG
+Project proposed for graduate level class: Machine Learning for Medical Application `ML4MA_project.pdf`
 
 # Datasets
 ### Arythmia
